@@ -1,0 +1,6 @@
+{
+	"esnext": true,
+	"predef": ["module", "exports", "__dirname", "__filename", "require", "global", "process", "console"],
+	"curly": true,
+	"globalstrict": true
+}
